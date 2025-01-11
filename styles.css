@@ -43,13 +43,18 @@ footer {
     color: #666;
 }
 
-div {
+ div  {
     display: flex;
     justify-content: center;
     margin: 20px 0;
 }
 
 img {
-    width: 40%;
-    border-radius: 10px; 
+    width: 20%;
+   
+}
+
+.Ro, img{
+        width: 50%;
+        border-radius: 10px; 
 }
